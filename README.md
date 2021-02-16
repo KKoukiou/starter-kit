@@ -1,4 +1,5 @@
 # Cockpit Starter Kit
+# Livetest
 
 Scaffolding for a [Cockpit](http://www.cockpit-project.org) module.
 
